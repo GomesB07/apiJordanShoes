@@ -1,9 +1,46 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "shoes": [
+      {
+          "id": 1,
+          "name": "Air Jordan 1 Mid Dutch Green",
+          "image": "https://github.com/GomesB07/jordanShoes/blob/master/src/assets/shoes/air-jordan-1.png?raw=true",
+          "group": "Tênis Air Jordan",
+          "price": "1.199,99"
+      },
+      {
+          "id": 2,
+          "name": "Air Jordan 1 High Zoom CMFT Tropical Twist",
+          "image": "https://github.com/GomesB07/jordanShoes/blob/master/src/assets/shoes/air-jordan-2.png?raw=true",
+          "group": "Tênis Air Jordan",
+          "price": "1.049,00"
+      },
+      {
+          "id": 3,
+          "name": "Air Jordan 1 Mid Dutch Green",
+          "image": "https://github.com/GomesB07/jordanShoes/blob/master/src/assets/shoes/air-jordan-3.png?raw=true",
+          "group": "Tênis Air Jordan",
+          "price": "1.350,00"
+      },
+      {
+          "id": 4,
+          "name": "Air Jordan 1 Mid GS 'Light Smoke Grey'",
+          "image": "https://github.com/GomesB07/jordanShoes/blob/master/src/assets/shoes/air-jordan-4.png?raw=true",
+          "group": "Tênis Air Jordan",
+          "price": "1.585,00"
+      },
+      {
+          "id": 5,
+          "name": "Air Jordan 1 Mid SE Bright Citrus",
+          "image": "https://github.com/GomesB07/jordanShoes/blob/master/src/assets/shoes/air-jordan-5.png?raw=true",
+          "group": "Tênis Air Jordan",
+          "price": "949,99"
+      },
+      {
+          "id": 6,
+          "name": "Air Jordan 1 Mid Grey Camo",
+          "image": "https://github.com/GomesB07/jordanShoes/blob/master/src/assets/shoes/air-jordan-6.png?raw=true",
+          "group": "Tênis Air Jordan",
+          "price": "999,99"
+      }
+  ]
 }
